@@ -1,0 +1,13 @@
+# Site settings
+title: A Starter Page
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is our starter page that will be built upon over time as we figure out
+  what the #*@% is going on...!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: twitter_sucks
+github_username:  mrGit
+
+# Build settings
+markdown: kramdown
